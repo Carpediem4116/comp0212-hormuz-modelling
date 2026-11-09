@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+/data/*.csv
+/data/market_source_manifest.json
+/results/**/*.csv
+/results/**/*.json
+/report/
+*.pdf
+*.pptx
